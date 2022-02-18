@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "title": "ভিডিও লেকচার",
+    "text": "শেখো নিজের ইচ্ছেমতো, পেয়ে যাও ২০ হাজারেরও বেশি ভিডিও লেকচার",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-video.png"
+  },
+
+  {
+    "id": "2",
+    "title": "সুবিধামত অনুশীলন",
+    "text": "শেখো নিজের ইচ্ছেমতো, পেয়ে যাও ২০ হাজারেরও বেশি ভিডিও লেকচার",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-practice.png"
+  },
+
+  {
+    "id": "3",
+    "title": "লাইভ ক্লাস",
+    "text": "শেখো নিজের ইচ্ছেমতো, পেয়ে যাও ২০ হাজারেরও বেশি ভিডিও লেকচার",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-live.png"
+  },
+
+  {
+    "id": "4",
+    "title": "লেকচার শীট",
+    "text": "শেখো নিজের ইচ্ছেমতো, পেয়ে যাও ২০ হাজারেরও বেশি ভিডিও লেকচার",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-edit.png"
+  },
+
+  {
+    "id": "5",
+    "title": "দৈনিক ফলাফল ও লিডারবোর্ড",
+    "text": "শেখো নিজের ইচ্ছেমতো, পেয়ে যাও ২০ হাজারেরও বেশি ভিডিও লেকচার",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-result.png"
+  },
+
+  {
+    "id": "6",
+    "title": "প্রশ্ন করো মন খুলে",
+    "text": "শেখো নিজের ইচ্ছেমতো, পেয়ে যাও ২০ হাজারেরও বেশি ভিডিও লেকচার",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-qa.png"
+  }
+]

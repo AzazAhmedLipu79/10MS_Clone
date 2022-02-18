@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "cover": "https://10minuteschool.com/assets/icons/home-page/academic-bg.png",
+    "title": "HSC",
+    "titleBn": "এইচএসসি ",
+    "totalvideos": "577",
+    "Subject": "Physics",
+    "totalCourses": "15",
+    "totalChapter": "20",
+    "url": "/academics"
+  },
+  {
+    "id": "2",
+    "cover": "https://10minuteschool.com/assets/icons/home-page/academic-bg.png",
+    "title": "HSC",
+    "titleBn": "এইচএসসি ",
+    "totalvideos": "673",
+    "Subject": "Physics",
+    "totalCourses": "15",
+    "totalChapter": "20",
+    "url": "/academics"
+  },
+  {
+    "id": "3",
+    "cover": "https://10minuteschool.com/assets/icons/home-page/academic-bg.png",
+    "title": "HSC",
+    "titleBn": "এইচএসসি ",
+    "totalvideos": "083",
+    "Subject": "Physics",
+    "totalCourses": "15",
+    "totalChapter": "20",
+    "url": "/academics"
+  }
+]

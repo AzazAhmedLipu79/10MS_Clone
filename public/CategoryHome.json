@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "ক্লাস ১-১২",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-video.png",
+    "path": "#Academic"
+  },
+  {
+    "id": 2,
+    "title": "ভর্তি পরীক্ষা",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-video.png",
+    "path": "#Admission"
+  },
+  {
+    "id": 3,
+    "title": "চাকরি প্রস্তুতি",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-video.png",
+    "path": "#Jobs"
+  },
+  {
+    "id": 4,
+    "title": "কোর্স সমূহ",
+    "img": "https://10minuteschool.com/assets/icons/home-page/icon-video.png",
+    "path": "#Skills"
+  }
+]
