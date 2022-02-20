@@ -1,6 +1,6 @@
+import { Card } from "@mui/material";
 import React from "react";
 // import Footer from "../../Component/Footer/Footer";
-import TopNavigation from "../../Component/TopNavigation/TopNavigation";
 import ClassCategory from "./ClassCategory/ClassCategory";
 import FeturedCourse from "./FeturedCourse/FeturedCourse";
 import HeroHome from "./HeroHome";
@@ -10,8 +10,7 @@ import RunningCourse from "./RunningCourse/RunningCourse";
 import StrategyHome from "./StrategyHome/StrategyHome";
 const Home = () => {
   return (
-    <div className="container-fluid  p-0 mx-auto">
-      <TopNavigation />
+    <Card className="container-fluid  p-0 mx-auto">
       <HeroHome />
       <RunningCourse />
       <IntroHome />
@@ -20,7 +19,7 @@ const Home = () => {
       <StrategyHome />
       <FeturedCourse />
       {/* <Footer /> */}
-    </div>
+    </Card>
   );
 };
 

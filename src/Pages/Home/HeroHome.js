@@ -1,3 +1,4 @@
+import {Link} from "react-router-dom"
 const HeroHome = () => {
   return (
     <div className="container  col-xxl-10 mx-auto px-2 py-4">
@@ -32,7 +33,9 @@ const HeroHome = () => {
               type="button"
               className="btn btn-primary btn-lg px-4 me-md-2"
             >
-              Primary
+           <Link to="/about-us"> 
+           About Us
+           </Link>
             </button>
             <button
               type="button"

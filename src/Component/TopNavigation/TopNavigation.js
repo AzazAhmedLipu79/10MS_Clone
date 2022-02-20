@@ -19,7 +19,7 @@ import Logout from "@mui/icons-material/Logout";
 import AccountDialogCard from "../AccountDialogCard/AccountDialogCard";
 import { ColorModeContext } from "../../Context/ColorModeContext";
 
-const pages = ["Products", "Pricing", "Blog"];
+const pages = ["/", "/about-us", "Blog"];
 
 const TopNavigation = () => {
   const [anchorEl, setAnchorEl] = React.useState(null);
@@ -85,9 +85,11 @@ const TopNavigation = () => {
               }}
             >
               {pages.map((page) => (
-                <MenuItem key={page} onClick={handleCloseNavMenu}>
-                  <Typography textAlign="center">{page}</Typography>
-                </MenuItem>
+                  
+                  <MenuItem key={page} onClick={handleCloseNavMenu}>
+                    <Typography textAlign="center">{page}</Typography>
+                  </MenuItem>
+             
               ))}
             </Menu>
           </Box>

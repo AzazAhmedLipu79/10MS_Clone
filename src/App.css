@@ -18,14 +18,21 @@
 
 .category-box {
   border-radius: 20px;
-  background: #e0e0e0;
-  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+
+  /* background: #e0e0e0; */
 }
 .category-box:hover {
-  border: 2px solid green;
+  /* border: 2px solid green; */
+
+  border: solid 15px hsla(0, 95%, 35%, 1);
   cursor: cell;
   border-radius: 33px;
-  box-shadow: none;
+  box-shadow: 20px 20px 10px #bebebe, -20px -20px 10px #ededed;
+  margin-top: -7%;
+  transition: 0.5s ease-in-out;
+  position: absolute;
+  backdrop-filter: blur(50px);
+  width: 20%;
 }
 
 /* card class */
@@ -93,4 +100,17 @@
   .bottom-nav {
     display: block !important;
   }
+}
+.phero-purple {
+  background-color: #6047ec !important;
+}
+
+.bg-gif {
+  background-image: url("https://i.postimg.cc/brCKmMC7/191050242-111743741133047-6880428638969503664-n-removebg.png");
+  background-size: 90%;
+  background-position-x: center;
+  background-position-y: 25%;
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
 }
